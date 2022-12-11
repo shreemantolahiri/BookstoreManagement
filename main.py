@@ -20,13 +20,6 @@ mydb.commit()
 
 
 
-
-
-        
-                
-                
-
-
 def select10():
     login11=tkinter.Tk()
     login11.geometry("500x500")
